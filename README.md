@@ -4,6 +4,19 @@
 
 Made for hotels and restaurants, where food-handler cards, liquor-server certifications, CPR cards, I-9 reverification dates, vendor certificates of insurance and property permits all expire on different days and are usually tracked by memory.
 
+## ▶ Try it yourself (1 minute, no setup)
+
+[![Make a copy in Google Sheets](https://img.shields.io/badge/Google%20Sheets-Make%20a%20copy-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1eqmTiSv_Z3JL1mqJYDSq0thiGa12MsO5jR1klJnoUdo/copy)
+&nbsp;
+[![View the live demo](https://img.shields.io/badge/View%20live%20demo-read--only-1f3b57?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1eqmTiSv_Z3JL1mqJYDSq0thiGa12MsO5jR1klJnoUdo/edit?usp=sharing)
+
+1. Click **Make a copy**. You get your own copy with the code already inside; the original is never touched.
+2. In your copy, choose **Compliance Tracker → Reset demo data**. This refreshes the sample dates around today. The first time, Google asks you to approve the script; see [step 5 below](#set-it-up-about-10-minutes) for what the "unverified app" screen means.
+3. Look around: **Dashboard**, the color-coded **Tracker**, and the **Audit Log** of what *would* be emailed. Nothing is sent in the default LOG_ONLY mode.
+4. To see real emails, set **Settings → Mode** to `TEST` and choose **Run check now**. Every email goes only to you.
+
+*The menu takes a few seconds to appear after the sheet loads. All names and emails in the demo are fake.*
+
 | | |
 |---|---|
 | **Daily automatic check** | Every morning it updates every item's status and sends whatever is due. |
@@ -33,6 +46,8 @@ Made for hotels and restaurants, where food-handler cards, liquor-server certifi
 ---
 
 ## Set it up (about 10 minutes)
+
+*Prefer to install from the code instead of copying the demo sheet? Follow these steps.*
 
 1. **Make a blank Google Sheet.** Go to [sheets.new](https://sheets.new) and name it *Compliance Tracker (Demo)*.
 2. **Open the script editor:** **Extensions → Apps Script**.

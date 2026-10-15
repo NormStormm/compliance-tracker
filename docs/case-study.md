@@ -38,7 +38,7 @@
 
 **Tools:** Google Sheets · Google Apps Script (JavaScript) · Gmail · Node.js test runner
 
-[Video, 90 sec] · [Code on GitHub] · [Runbook] · [Test plan]
+[Try it: make a copy](https://docs.google.com/spreadsheets/d/1eqmTiSv_Z3JL1mqJYDSq0thiGa12MsO5jR1klJnoUdo/copy) · [Code on GitHub](https://github.com/NormStormm/compliance-tracker) · [Runbook](runbook.md) · [Test plan](test-plan.md) · [Video, 90 sec: coming]
 
 ---
 
