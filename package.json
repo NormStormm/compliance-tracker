@@ -1,0 +1,9 @@
+{
+  "name": "compliance-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Google Sheets + Apps Script tracker that reminds people before certifications, permits and vendor insurance expire.",
+  "scripts": {
+    "test": "node --test tests/logic.test.js tests/check.test.js"
+  }
+}
