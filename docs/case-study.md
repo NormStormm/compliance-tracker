@@ -4,7 +4,7 @@
 >
 > *Fill in the [brackets] after your own test run. Keep "estimate" wherever the number isn't measured.*
 
-**The problem.** In ten years of restaurant and hotel operations, I've seen the same thing happen again and again. A food-handler card or liquor-server certification expires and nobody notices until a manager is pulling someone off a shift or an inspector asks for it. Vendor insurance lapses the same way. The tracking usually lives in one person's spreadsheet or memory.
+**The problem.** In restaurants and hotels, the same thing happens again and again. A food-handler card or liquor-server certification expires and nobody notices until a manager is pulling someone off a shift or an inspector asks for it. Vendor insurance lapses the same way. The tracking usually lives in one person's spreadsheet or memory.
 
 **Who it's for.** HR and compliance coordinators, department managers, and the GM who has to answer for it at an inspection or audit.
 
